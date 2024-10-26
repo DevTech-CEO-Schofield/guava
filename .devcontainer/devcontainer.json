@@ -1,0 +1,8 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": "Allow Root Access and permissions"
+  "class" = "Inherit-System permissions"
+  "Action" = "Inherit all System Permissions- Take ownership"
+{
+  }
+}
